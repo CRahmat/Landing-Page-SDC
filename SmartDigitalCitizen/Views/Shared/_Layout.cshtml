@@ -1,13 +1,14 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Digital Citizenship Indonesia - Tingkatkan Literasi Terkait Keamanan Siber dan Etika Di Ruang Siber</title>
+    <title>Digital Citizenship Indonesia - Tingkatkan Literasi Keamanan Siber</title>
     <meta name="description" content="Digital Citizenship Indonesia adalah inisiatif bersama untuk meningkatkan literasi terkait keamanan siber dan etika di ruang siber">
     <meta name="author" content="Digital Citizenship Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Digital Citizenship Indonesia">
     <meta property="og:description" content="Digital Citizenship Indonesia adalah inisiatif bersama untuk meningkatkan literasi terkait keamanan siber dan etika di ruang siber">
-    <meta property="og:url" content="https://academy.digitalcitizenship.id/">
+    <meta property="og:url" content="https://digitalcitizenship.id/">
+    <meta property="og:image" content="/assets/images/logo/digital-citizenship-indonesia-logo-square.png">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -56,6 +57,8 @@
     <script src="~/assets/js/hs.core.js"></script>
     <script src="~/assets/js/components/hs.go-to.js"></script>
     <script src="~/assets/js/components/hs.onscroll-animation.js"></script>
+    <script src="~/assets/js/components/hs.smart-menu.js"></script>
+    <script src="~/assets/js/components/hs.popup.js"></script>
 
     <script src="~/assets/js/custom.js"></script>
     <script src="~/assets/vendor/slick-carousel/slick/slick.js"></script>
@@ -65,6 +68,7 @@
             $.HSCore.components.HSCarousel.init('[class*="js-carousel"]');
             $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
             $.HSCore.components.HSGoTo.init('.js-go-to');
+            $.HSCore.components.HSSmartMenu.init($('.js-smart-menu'));
             $('#carouselCus3').slick('setOption', 'responsive', [{
                 breakpoint: 1200,
                 settings: {
@@ -90,7 +94,7 @@
                 settings: {
                     slidesToShow: 2
                 }
-                }], true);
+            }], true);
 
         });
     </script>

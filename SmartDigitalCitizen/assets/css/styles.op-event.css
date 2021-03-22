@@ -32484,6 +32484,10 @@ pre[class*="language-"] .toolbar-item a {
   width: 90% !important;
   /* P */
 }
+.g-width-100x {
+    width: 100% !important;
+    /* P */
+}
 
 @media (max-width: 445px) {
   .w-100--2xs {

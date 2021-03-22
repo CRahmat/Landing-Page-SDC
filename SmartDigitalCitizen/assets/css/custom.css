@@ -254,17 +254,21 @@ body::-webkit-scrollbar-thumb {
     background-color: #DBDBDB;
 }
 .cls-1 {
-    fill: #808285;
+    fill: #eb2d2d;
 }
 
 .cls-2 {
-    fill: #a7a9ac;
+    fill: #f8a24d;
+}
+
+.cls-2, .cls-4 {
+    fill-rule: evenodd;
 }
 
 .cls-3 {
-    fill: #283042;
+    fill: #78be41;
 }
 
 .cls-4 {
-    fill: #6d6e71;
+    fill: #19aae1;
 }

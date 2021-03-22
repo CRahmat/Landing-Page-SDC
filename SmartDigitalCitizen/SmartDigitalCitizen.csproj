@@ -132,10 +132,10 @@
     <Content Include="assets\images\logo\bssn-logo.jpg" />
     <Content Include="assets\images\logo\cloud-computing-logo.jpg" />
     <Content Include="assets\images\logo\digital-citizenship-indonesia-logo-square.png" />
-    <Content Include="assets\images\logo\digital-citizenship-indonesia-logo.png" />
     <Content Include="assets\images\logo\drone-emprit-logo.png" />
     <Content Include="assets\images\logo\mafindo-logo.png" />
     <Content Include="assets\images\vector\collaboration.png" />
+    <Content Include="assets\images\vector\telegram-group-qr-code.png" />
     <Content Include="assets\images\vector\social-media.png" />
     <Content Include="assets\images\vector\footer.png" />
     <Content Include="assets\vendor\animate.css" />

@@ -72,8 +72,8 @@ C:\Users\LENOVO\source\repos\SmartDigitalCitizen\SmartDigitalCitizen\bin\System.
 C:\Users\LENOVO\source\repos\SmartDigitalCitizen\SmartDigitalCitizen\bin\Newtonsoft.Json.xml
 C:\Users\LENOVO\source\repos\SmartDigitalCitizen\SmartDigitalCitizen\bin\Antlr3.Runtime.pdb
 C:\Users\LENOVO\source\repos\SmartDigitalCitizen\SmartDigitalCitizen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\LENOVO\source\repos\SmartDigitalCitizen\SmartDigitalCitizen\obj\Debug\SmartDigitalCitizen.csprojAssemblyReference.cache
 C:\Users\LENOVO\source\repos\SmartDigitalCitizen\SmartDigitalCitizen\obj\Debug\SmartDigitalCitizen.csproj.CoreCompileInputs.cache
 C:\Users\LENOVO\source\repos\SmartDigitalCitizen\SmartDigitalCitizen\obj\Debug\SmartDigitalCitizen.csproj.CopyComplete
 C:\Users\LENOVO\source\repos\SmartDigitalCitizen\SmartDigitalCitizen\obj\Debug\SmartDigitalCitizen.dll
 C:\Users\LENOVO\source\repos\SmartDigitalCitizen\SmartDigitalCitizen\obj\Debug\SmartDigitalCitizen.pdb
+C:\Users\LENOVO\source\repos\SmartDigitalCitizen\SmartDigitalCitizen\obj\Debug\SmartDigitalCitizen.csprojAssemblyReference.cache
